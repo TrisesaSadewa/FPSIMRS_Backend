@@ -1,10 +1,5 @@
-sqlmodel
-sqlalchemy
-psycopg2-binary
-os
-uvicorn
-datetime 
-typing
 fastapi
+uvicorn
 pydantic
 supabase
+python-dotenv
