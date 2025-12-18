@@ -1,0 +1,10 @@
+sqlmodel
+sqlalchemy
+psycopg2-binary
+os
+uvicorn
+datetime 
+typing
+fastapi
+pydantic
+supabase
